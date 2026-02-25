@@ -1,6 +1,8 @@
-![Project Logo](static/images/logo.png)
+<p align="center">
+  <img src="logo.png" width="400">
+</p>
 
-# iZZi – Digital Architecture & Growth Engineering
+# iZZi – Digital Architecture, Web Development & Growth Engineering
 
 ## Executive Overview
 
