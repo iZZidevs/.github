@@ -2,7 +2,7 @@
   <img src="logo.png" width="400">
 </p>
 
-# iZZi – Digital Architecture, Web Development & Growth Engineering
+# Digital Architecture, Web Development & Growth Engineering
 
 ## Executive Overview
 
